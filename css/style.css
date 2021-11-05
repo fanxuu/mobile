@@ -1,0 +1,23 @@
+html{
+    scroll-behavior: smooth;
+    font-family:'Nunito', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    padding: 100px 50px 0 50px;
+}
+
+p{
+    font-size: 20px;
+    padding: 0 50px;
+}
+
+.portrait{
+    padding: 100px;
+}
+
+nav li{
+    display: inline;
+    padding-right: 20px;
+  }
